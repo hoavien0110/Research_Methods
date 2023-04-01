@@ -1,10 +1,10 @@
 - Một số ý tưởng:
     - Eric:
-        - Âm nhạc: Có thể liên quan đến trầm cảm
-        - Dị ứng ở trẻ em:
-        - Alzheimer
+        - Âm nhạc: Có thể liên quan đến trầm cảm. Dataset: https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results 
+        - Dị ứng ở trẻ em: https://www.kaggle.com/datasets/thedevastator/childhood-allergies-prevalence-diagnosis-and-tre 
+        - Alzheimer: https://www.kaggle.com/datasets/ananthu19/alzheimer-disease-and-healthy-aging-data-in-us 
     - Nghĩa:
-        - Hút thuốc 
-        - Phân loại rác
+        - Hút thuốc: https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection
+        - Phân loại rác: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification 
     - Hoa Viên:
-        - Chất lượng giấc ngủ
+        - Chất lượng giấc ngủ: https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
