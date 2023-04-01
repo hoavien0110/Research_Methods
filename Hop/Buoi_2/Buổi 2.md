@@ -1,0 +1,10 @@
+- Một số ý tưởng:
+    - Eric:
+        - Âm nhạc: Có thể liên quan đến trầm cảm
+        - Dị ứng ở trẻ em:
+        - Alzheimer
+    - Nghĩa:
+        - Hút thuốc 
+        - Phân loại rác
+    - Hoa Viên:
+        - Chất lượng giấc ngủ
